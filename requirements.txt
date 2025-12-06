@@ -1,0 +1,9 @@
+numpy
+open3d
+trimesh
+laspy
+scipy
+onnxruntime-gpu
+numba
+plyfile
+gitpython
